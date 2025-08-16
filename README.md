@@ -4,7 +4,7 @@
 
 ---
 
-**Hackathon Submission for: [Agents of the Permaweb: The AO Autonomous Agents Hackathon](https://example.com/hackathon-link)**
+**Hackathon Submission for: Agents of the Permaweb: The AO Autonomous Agents Hackathon
 
 -   **Track:** AI-Enhanced Applications
 -   **Bonus Prizes Targeted:** AstroUSD, Apus Network, RandAO
